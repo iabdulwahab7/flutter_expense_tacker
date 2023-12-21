@@ -1,6 +1,8 @@
 # personal_expense
 
-A new Flutter project.
+A flutter project to track your daily expense...
+![Uploading Personal_Expense_Tracker.png…]()
+
 
 ## Getting Started
 
