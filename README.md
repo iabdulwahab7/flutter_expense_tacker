@@ -1,7 +1,8 @@
 # personal_expense
 
 A flutter project to track your daily expense...
-![Uploading Personal_Expense_Tracker.png…]()
+
+![Personal_Expense_Tracker](https://github.com/iabdulwahab7/flutter_expense_tacker/assets/76598467/95dea89c-7932-4900-8a54-7cb7f49cf314)
 
 
 ## Getting Started
